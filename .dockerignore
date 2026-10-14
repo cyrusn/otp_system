@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+.git
+.gitignore
+.DS_Store
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+data/*.sqlite
+data/*.sqlite-journal
+data/*.sqlite-wal
+data/*.sqlite-shm
+app.tar
+*.log
